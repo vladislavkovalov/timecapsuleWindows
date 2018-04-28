@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Museosans';
+    src: url('../fonts/MuseoSansBlack/MuseoSansBlack.eot');
+    src: url('../fonts/MuseoSansBlack/MuseoSansBlack.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MuseoSansBlack/MuseoSansBlack.woff') format('woff'),
+    url('../fonts/MuseoSansBlack/MuseoSansBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museosans';
+    src: url('../fonts/MuseoSansRegular/MuseoSansRegular.eot');
+    src: url('../fonts/MuseoSansRegular/MuseoSansRegular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MuseoSansRegular/MuseoSansRegular.woff') format('woff'),
+    url('../fonts/MuseoSansRegular/MuseoSansRegular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}

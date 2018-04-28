@@ -1,0 +1,19 @@
+{
+  "name": "gulp_builder",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Vlad Kovalov <vladkovalov95@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*"
+  }
+}
